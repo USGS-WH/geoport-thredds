@@ -14,7 +14,7 @@ for more information.
 <wmsConfig>
 
  <global>
-  <!-- These settings apply to all datasets unless overridden below -->
+  <!-- These settings apply to datasets unless overridden below -->
 
   <defaults>
    <!-- The global defaults. All elements are mandatory -->
